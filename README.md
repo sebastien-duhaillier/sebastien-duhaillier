@@ -13,7 +13,7 @@ Mon expérience de **webmestre à la préfecture de l’Yonne** m’a également
 - [**La Bonne Relance**](https://la-bonne-relance.vercel.app/) — mini CRM permettant de gérer des prospects et d’automatiser des séquences d’e-mails avec Next.js, Supabase, Python et FastAPI.
 - [**La Bonne Branche**](https://sebastien-duhaillier.github.io/la-bonne-branche/) — démonstration publique et anonymisée d’outils métier conçus autour de la comparaison d’arborescences, de la protection d’URL, du suivi des services et de la préparation des utilisateurs.
 - [**BlablaBook**](https://projet-blablabook-front.vercel.app/) — application full stack développée avec SvelteKit, Node.js, Express et PostgreSQL.
-- **Mini RPG REST** — application permettant de gérer des personnages, des objets et des sorts à travers une API REST sécurisée.
+- [**Mini RPG REST**](https://mini-rpg-rest-api.vercel.app/) — application permettant de créer des personnages et de gérer leurs objets et leurs sorts grâce à une API REST sécurisée développée avec Node.js, Express et PostgreSQL.
 
 ## Technologies utilisées
 
